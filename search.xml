@@ -3,23 +3,6 @@
   
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>/2017/10/19/hello-world/</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-      
-        
-    </entry>
-    
-    <entry>
       <title><![CDATA[聊一聊我的新电脑]]></title>
       <url>/2017/08/10/zetas-first-pc/</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><strong>待更新</strong></p>
@@ -360,14 +343,105 @@
   
     
     <entry>
-      <title><![CDATA[gallery]]></title>
-      <url>/gallery/index.html</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+      <title><![CDATA[Hello,World.]]></title>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[00:13.170]There I was again tonight forcing laughter faking smiles
+[00:18.980]Same old tired lonely place
+[00:24.830]Walls of insincerity
+[00:27.790]Shifiting eyes and vancancy vanished when I saw your face
+[00:34.150]All I can say is it was enchanting to meet you
+[00:48.260]Your eyes whispered have we met
+[00:51.370]Across the room your silhouette starts to make its way to me
+[00:59.630]The playful conversation starts
+[01:02.930]Counter all your quick remarks like passing notes in secrecy
+[01:10.940]And it was enchanting to meet you
+[01:20.960]All I can say is I was enchanted to meet you
+[01:35.120]This night is sparkling don t you let it go
+[01:42.130]I'm wonderstruck blushing all the way home
+[01:47.530]I'll spend forever wondering if you knew
+[01:53.340]I was enchanted to meet you
+[02:04.450]The lingering question kept me up
+[02:07.310]2am who do you love
+[02:10.210]I wonder till I'm wide awake
+[02:14.310]Now I'm pacing back and forth wishing you were at my door
+[02:21.870]I'd open up and you would say
+[02:26.380]It was enchanted to meet you
+[02:37.440]All I know is I was enchanted to meet you
+[02:51.460]This night is sparkling don't you let it go
+[02:58.270]I'm wonderstruck blushing all the way home
+[03:04.330]I'll spend forever wondering if you knew
+[03:16.000]This night is flawless don't you let it go
+[03:21.970]I'm wonderstruck dancing around all alone
+[03:27.680]I'll spend forever wondering if you knew
+[03:33.480]I was enchanted to meet you
+[03:59.610]This is me praying that this was the very first page
+[04:05.710]Not where the story line ends
+[04:08.270]My thoughts will echo your name until I see you again
+[04:14.220]These are the words I held back as I was leaving too soon
+[04:20.280]I was enchanted to meet you
+[04:25.880]Please don't be in love with someone else
+[04:31.490]Please don't have somebody waiting on you
+[04:37.240]Please don't be in love with someone else
+[04:43.240]Please don't have somebody waiting on you
+[04:48.940]This night is sparkling don't you let it go
+[04:55.600]I'm wonderstruck blushing all the way home
+[05:01.400]I'll spend forever wondering if you knew
+[05:12.450]This night is flawless don t you let it go
+[05:19.160]I'm wonderstruck dancing around all alone
+[05:24.910]I'll spend forever wondering if you knew
+[05:30.570]I was enchanted to meet you
+[05:36.480]Please don't be in love with someone else
+[05:41.780]Please don't have somebody waiting on you
+</pre></div>
+		<script>
+			new APlayer({
+				element: document.getElementById("aplayer0"),
+				narrow: false,
+				autoplay: false,
+				showlrc: 2,
+				music: {
+					title: "Enchanted",
+					author: "Taylor Swift",
+					url: "http://ojt8e8dj9.bkt.clouddn.com/Enchanted.mp3",
+					pic: "http://ojt8e8dj9.bkt.clouddn.com/613NoZhvMCL.jpg",
+				}
+			});
+		</script>
+<p>CUMT就读失足学长一名</p>
+<p>热爱欧美音乐 —— Taylor Swift、 Lana Del Rey、 Ariana Grande</p>
+<p>老霉唯一本命。</p>
+<p>喜欢瞎折腾，尤其计算机相关。</p>
+<p>不过也都是兴趣相关，大多数浅尝辄止。</p>
+<p>在读着一个只知道名字的专业，心系游戏制作。</p>
+<p>正在努力学习 C# 和 Unity</p>
+<p>希望大学期间能做点什么出来。</p>
+<p>立志成为一个优秀的游戏制作者。</p>
+<p>喜欢主机游戏，也是个五年的刀塔玩家。</p>
+<p>这是我的 <a href="http://steamcommunity.com/profiles/76561198100235515" target="_blank" rel="external">Steam账号</a></p>
+<p>一起玩游戏吧。</p>
+<p>不过玩了这么长时间还是喜加一。</p>
+<p>17 年能不能玩上游戏还要看我能不能攒出钱来配电脑。（结果是在 618 的时候利用白条配出了一台自认为还算可以的电脑，应该会写一篇小文章，讲讲这个电脑。）</p>
+<p>不善言辞</p>
+<p>但是想的比做得多，说的比想得多。</p>
+<p>向往自由，不喜欢被约束。</p>
+<p>友情链接是一些亦师亦友的人，没有机房和他们，自己大概只是个爱玩游戏懂一点电脑的人。甚是感谢。</p>
+<p>还有很多不知道博客的人，</p>
+<p>赵雪宇，如果没有他，估计我不会了解机房，也就不会有后面的一切。</p>
+<p>史瑶学姐，给我指了游戏制作这扇门的方向，现在在一起做点小游戏 ，甚是感激。</p>
+<p>田野，大学生活中最美丽的遇见。</p>
+<p>孙海川，赵玉璞，许启贤，<a href="https://github.com/uufree" target="_blank" rel="external">陈悠</a> ,许自强，机房关系最好的几个人，有着相同兴趣的人能聚在一起分享见闻，也给予了我很大帮助，这种感觉很棒。</p>
+]]></content>
     </entry>
     
     <entry>
       <title><![CDATA[links]]></title>
       <url>/links/index.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[gallery]]></title>
+      <url>/gallery/index.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script>]]></content>
     </entry>
     
@@ -474,97 +548,6 @@
 <li>或许自己是打雷粉丝的原因，总感觉这张专辑已经预定了今年的最佳专辑（如果今年老霉不出专辑的话），专属于 Lana 的迷幻声音，让人沉迷其中，真的是一种享受。<br>推荐这一整张专辑。</li>
 </ul>
 <iframe src="https://open.spotify.com/embed/album/7xYiTrbTL57QO0bb4hXIKo" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Hello,World.]]></title>
-      <url>/about/index.html</url>
-      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[00:13.170]There I was again tonight forcing laughter faking smiles
-[00:18.980]Same old tired lonely place
-[00:24.830]Walls of insincerity
-[00:27.790]Shifiting eyes and vancancy vanished when I saw your face
-[00:34.150]All I can say is it was enchanting to meet you
-[00:48.260]Your eyes whispered have we met
-[00:51.370]Across the room your silhouette starts to make its way to me
-[00:59.630]The playful conversation starts
-[01:02.930]Counter all your quick remarks like passing notes in secrecy
-[01:10.940]And it was enchanting to meet you
-[01:20.960]All I can say is I was enchanted to meet you
-[01:35.120]This night is sparkling don t you let it go
-[01:42.130]I'm wonderstruck blushing all the way home
-[01:47.530]I'll spend forever wondering if you knew
-[01:53.340]I was enchanted to meet you
-[02:04.450]The lingering question kept me up
-[02:07.310]2am who do you love
-[02:10.210]I wonder till I'm wide awake
-[02:14.310]Now I'm pacing back and forth wishing you were at my door
-[02:21.870]I'd open up and you would say
-[02:26.380]It was enchanted to meet you
-[02:37.440]All I know is I was enchanted to meet you
-[02:51.460]This night is sparkling don't you let it go
-[02:58.270]I'm wonderstruck blushing all the way home
-[03:04.330]I'll spend forever wondering if you knew
-[03:16.000]This night is flawless don't you let it go
-[03:21.970]I'm wonderstruck dancing around all alone
-[03:27.680]I'll spend forever wondering if you knew
-[03:33.480]I was enchanted to meet you
-[03:59.610]This is me praying that this was the very first page
-[04:05.710]Not where the story line ends
-[04:08.270]My thoughts will echo your name until I see you again
-[04:14.220]These are the words I held back as I was leaving too soon
-[04:20.280]I was enchanted to meet you
-[04:25.880]Please don't be in love with someone else
-[04:31.490]Please don't have somebody waiting on you
-[04:37.240]Please don't be in love with someone else
-[04:43.240]Please don't have somebody waiting on you
-[04:48.940]This night is sparkling don't you let it go
-[04:55.600]I'm wonderstruck blushing all the way home
-[05:01.400]I'll spend forever wondering if you knew
-[05:12.450]This night is flawless don t you let it go
-[05:19.160]I'm wonderstruck dancing around all alone
-[05:24.910]I'll spend forever wondering if you knew
-[05:30.570]I was enchanted to meet you
-[05:36.480]Please don't be in love with someone else
-[05:41.780]Please don't have somebody waiting on you
-</pre></div>
-		<script>
-			new APlayer({
-				element: document.getElementById("aplayer0"),
-				narrow: false,
-				autoplay: false,
-				showlrc: 2,
-				music: {
-					title: "Enchanted",
-					author: "Taylor Swift",
-					url: "http://ojt8e8dj9.bkt.clouddn.com/Enchanted.mp3",
-					pic: "http://ojt8e8dj9.bkt.clouddn.com/613NoZhvMCL.jpg",
-				}
-			});
-		</script>
-<p>CUMT就读失足学长一名</p>
-<p>热爱欧美音乐 —— Taylor Swift、 Lana Del Rey、 Ariana Grande、 Adele、 The Weeknd</p>
-<p>是个尾气。</p>
-<p>喜欢瞎折腾，尤其计算机相关。</p>
-<p>不过也都是兴趣相关，大多数浅尝辄止。</p>
-<p>在读着一个只知道名字的专业，心系游戏制作。</p>
-<p>正在努力学习 C# 和 Unity</p>
-<p>希望大学期间能做点什么出来。</p>
-<p>立志成为一个优秀的游戏制作者。</p>
-<p>喜欢主机游戏，也是个五年的刀塔玩家。</p>
-<p>这是我的 <a href="http://steamcommunity.com/profiles/76561198100235515" target="_blank" rel="external">Steam账号</a></p>
-<p>一起玩游戏吧。</p>
-<p>不过玩了这么长时间还是喜加一。</p>
-<p>17 年能不能玩上游戏还要看我能不能攒出钱来配电脑。（结果是在 618 的时候利用白条配出了一台自认为还算可以的电脑，应该会写一篇小文章，讲讲这个电脑。）</p>
-<p>不善言辞</p>
-<p>但是想的比做得多，说的比想得多。</p>
-<p>向往自由，不喜欢被约束。</p>
-<p>友情链接是一些亦师亦友的人，没有机房和他们，自己大概只是个爱玩游戏懂一点电脑的人。甚是感谢。</p>
-<p>还有很多不知道博客的人，</p>
-<p>赵雪宇，如果没有他，估计我不会了解机房，也就不会有后面的一切。</p>
-<p>史瑶学姐，给我指了游戏制作这扇门的方向，现在在一起做点小游戏 ，甚是感激。</p>
-<p>田野，大学生活中最美丽的遇见。</p>
-<p>孙海川，赵玉璞，许启贤，<a href="https://github.com/uufree" target="_blank" rel="external">陈悠</a> ,许自强，机房关系最好的几个人，有着相同兴趣的人能聚在一起分享见闻，也给予了我很大帮助，这种感觉很棒。</p>
 ]]></content>
     </entry>
     
